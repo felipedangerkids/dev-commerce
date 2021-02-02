@@ -1,0 +1,83 @@
+
+
+.footer .footer-pre-bottom {
+    background-color:#000;
+    padding: 50px 0 10px 0;
+}
+
+.footer .footer-pre-bottom h4,
+.footer .footer-pre-bottom li a,
+.footer .footer-pre-bottom li {
+    color: #fff;
+}
+
+.footer .footer-bottom {
+    background-color: #82847f;
+    padding: 10px 0 10px 0;
+}
+
+.footer .footer-bottom div {
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+}
+
+/* End Footer */
+
+/* Contato */
+.contato-home {
+    margin: 50px 0 10px 0;
+    padding: 150px 0 150px 0;
+    background-image: url(../img/bg-fale-conosco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 600px; */
+}
+
+.contato-home input,
+.contato-home textarea {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.contato-home input:focus,
+.contato-home textarea:focus {
+    background-color: transparent;
+    box-shadow: none;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.contato-home ::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.contato-home :-moz-placeholder {
+    /* Firefox 18- */
+    color: #fff;
+}
+
+.contato-home ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #fff;
+}
+
+.contato-home :-ms-input-placeholder {
+    color: #fff;
+}
+
+.contato-home button.btn-default {
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+}
+
+.contato-home button.btn-default:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #000;
+}
+.payments-img{
+    width: 50%;
+}
